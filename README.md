@@ -1,0 +1,2 @@
+# Investigating-Netflix-Movies-and-Guest-Star-The-Office
+In this project, I apply Python to solve a real-world data science problem by using everything from lists and loops to pandas and matplotlib, manipulating raw data and drawing conclusions from plots that I create to discover if Netflix’s movies are getting shorter over time and which guest stars appear in the most popular episode of "The Office".
